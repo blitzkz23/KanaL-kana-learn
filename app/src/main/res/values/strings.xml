@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">KanaL_KanaLearn</string>
+    Dibawah untuk page guide
+
+    <string-array name="kana">
+        <item>a</item><item>i</item><item>u</item><item>e</item><item>o</item>
+        <item>ka</item><item>ki</item><item>ku</item><item>ke</item><item>ko</item>
+        <item>sa</item><item>shi</item><item>su</item><item>se</item><item>so</item>
+        <item>ta</item><item>chi</item><item>tu</item><item>te</item><item>to</item>
+        <item>na</item><item>ni</item><item>nu</item><item>ne</item><item>no</item>
+        <item>ha</item><item>hi</item><item>fu</item><item>he</item><item>ho</item>
+        <item>ma</item><item>mi</item><item>mu</item><item>me</item><item>mo</item>
+        <item>ya</item><item>yu</item><item>yo</item><item>wa</item><item>wo</item>
+        <item>ra</item><item>ri</item><item>ru</item><item>re</item><item>ro</item>
+        <item>n</item>
+    </string-array>
+
+    <string name="guide_judul">Dasar Penulisan Bahasa Jepang</string>
+    <string name="paragraf1">Bahasa Jepang memiliki aturan gramatikal, cara baca dan cara menulis huruf bahasa Jepang.
+        Bahasan Jepang memiliki 3 (tiga) huruf, yaitu :</string>
+    <string name="huruf1">1. Huruf Hiragana(ひらがな)</string>
+    <string name="huruf2">2. Huruf Katakana(カタカナ)</string>
+    <string name="huruf3">3. Huruf Kanji(漢字)</string>
+    <string name="paragraf2">Huruf Hiragana dan huruf Katakan dibuat oleh orang Jepang sendiri sedangkan huruf Kanji berasal dari Cina,
+        kemudian mengalami peruban cara baca dan cara penulisanya.  Aplikasi ini hanya akan membahasa mengenai penulisan huruf hiragana dan katakana Saja.
+        Menulis merupakan salah satu aspek ketrampilan berbahasa.  Dalam tujuan pembelajaran bahasa Jepang aspek keterampilan menulis merupakan faktor yang sangat penting
+        yang bersinergi dengan aspek ketrampilan membaca.</string>
+    <string name="subjudl1">I. Huruf Hiragana</string>
+    <string name="hiragana">Huruf Hiragana adalah huruf bahasa jepang asli yang dibuat oleh orang jepang.  Huruf ini berfungsi sebagai berikut :</string>
+    <string name="bulletin1">a. Untuk menuliskan kata-kata asli Bahasa Jepang (bukan serapan)</string>
+    <string name="contoh1">Watashi (saya) --> わたし</string>
+    <string name="bulletin2">b. Sebagai furigana dari huruf Kanji</string>
+    <string name="contoh2">がくせい　dari Kanji 学生 (Gakusei(siswa)</string>
+    <string name="bulletin3">c. Alternatif huruf lain apabila tidak hafal huruf Kanji</string>
+    <string name="contoh3">先生(Kanji) -->　せんせい(Hiragana) --> Sensei(guru)</string>
+    <string name="subjudul2">II. Huruf Katakana</string>
+    <string name="katakana">Bunyi bahasa asing tidak dapat dinyatakan dengan tepat sekali dalam kata-kata bahsa Jepang, karena dalam bahasa Jepang kadang-kadang
+        tidak terdapat huruf untuk bunyi tertentu.  Kata-kata asing di-Jepangkan dulu atau dirubah menurut sistem lafal bahasa Jepang yang dapat ditulis dengan hurf Jepan.
+        Misal huruf :</string>
+    <string name="contohkatakana">>"th" ditulis dengan huruf (サ(sa), シ(shi), ス(su), セ(se), ソ(so))</string>
+    <string name="contohkatakana2">>"ti" ditulis dengan huruf 千(chi), kadang-kadang ditulis sebagai huruf ティ(ti) supaya lebih dekat dengan bunyi aslinya. </string>
+    <string name="contohkatakana3">>"di" ditulis dengan huruf ジ(ji), kadang-kadang ditulis sebagai huruf ティ(ti)(di) supaya lebih dekat dengan bunyi aslinya. </string>
+    <string name="lanjutkatakana">Bunyi-bunyi bahasa Inggris seperti diatas tidak terdapat di dalam bahasa Jepang, karena itu dinyatakan dengan huruf Katakana.
+        Selain itu huruf Katakana dipakai untuk menulis</string>
+    <string name="poin1">1. Kata-kata yang berasal dari bahasa asing</string>
+    <string name="poin2">2. Nama orang, tempat asing dan kata-kata benda asing</string>
+    <string name="poin3">3. Nama binatang dan tumbuh-tumbuhan</string>
+    <string name="poin4">4. Kata-kata yang menirukan sesuatu bunyi(onomatopeia)</string>
+    <string name="poin5">5. Kata-kata yang ingin ditekankan dan memberi kesan yang kuat atau lebih menyolok, seperti sfx JoJo</string>
+    <string name="poin6">6. Surat Kawat (telegram)</string>
+    <string name="source">Txt Source : App Hiragana Katakana by Emboxs</string>
+</resources>
