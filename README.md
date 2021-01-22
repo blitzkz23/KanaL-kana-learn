@@ -1,2 +1,2 @@
 # KanaL_KanaLearn
-Android application to learn Hiragana and Katakana
+Android application to help learn Hiragana and Katakana
